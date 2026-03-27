@@ -1,21 +1,6 @@
 # rRituals - Bug Tracker
 
-This repository is used **only for reporting bugs** related to the **rRituals** plugin.
-
-## What to report
-
-Create an issue if you encounter:
-
-* errors / exceptions
-* broken or incorrect mechanics (rituals, effects, etc.)
-* compatibility issues
-* visual bugs
-
-## ❌ What NOT to report
-
-* feature requests (use a separate repository or section)
-* configuration help
-* installation support
+This repository is used **for reporting bugs and suggesting ideas** related to the **rRituals** plugin.
 
 ## 📝 How to report a bug
 
